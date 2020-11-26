@@ -2,7 +2,7 @@
 
 vercel-serverless-function
 
-api url:
+api url: https://vercel-serverless-function.vercel.app/
 
 ## Requirement:
 
