@@ -24,5 +24,10 @@ export default (req: NowRequest, res: NowResponse) => {
       message: 'get member',
       members: memberList,
     });
+  } else {
+    res.status(200).json({
+      message: 'get member',
+      members: [],
+    });
   }
 };

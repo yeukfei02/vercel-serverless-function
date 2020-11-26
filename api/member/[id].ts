@@ -17,9 +17,14 @@ export default (req: NowRequest, res: NowResponse) => {
 
         res.status(200).json({
           message: 'get member by id',
-          member: member[0],
+          member: member[0] || {},
         });
       }
+    } else {
+      res.status(200).json({
+        message: 'get member by id',
+        member: {},
+      });
     }
   }
 };
