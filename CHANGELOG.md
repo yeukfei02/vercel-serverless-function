@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/yeukfei02/vercel-serverless-function/compare/v1.2.0...v1.2.1) (2021-03-29)
+
+
+### Bug Fixes
+
+* 🐛 fix package.json ([bf943e9](https://github.com/yeukfei02/vercel-serverless-function/commit/bf943e9eba3af7012b8544730416feccb2976224))
+
 ## [1.2.0](https://github.com/yeukfei02/vercel-serverless-function/compare/v1.1.0...v1.2.0) (2020-11-27)
 
 
