@@ -2,17 +2,17 @@
 
 vercel-serverless-function
 
-api url: https://vercel-serverless-function.vercel.app/
+api url: <https://vercel-serverless-function.vercel.app/>
 
-## Requirement:
+## Requirement
 
 - install yarn
 - install node (v12+)
 - install vercel cli
 
-## Testing and run:
+## Testing and run
 
-```
+```zsh
 // test api in local
 $ vercel dev
 
